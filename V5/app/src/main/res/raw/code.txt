@@ -1,0 +1,6 @@
+openssl x509 -in D:\Programas\V5\app\src\main\res\raw\certi.crt -outform der -out D:\Programas\V5\app\src\main\res\raw\cert.der
+
+openssl x509 -inform PEM -outform DER -in D:\Programas\V5\app\src\main\res\raw\certi.crt -out D:\Programas\V5\app\src\main\res\raw\cert.der
+
+
+D:\Programas\V5\app\src\main\res\raw\certi.crt
